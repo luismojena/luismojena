@@ -13,33 +13,14 @@ I am a passionate developer who likes to work on exciting cutting edge technolog
 
 
 <h2> Technologies I have worked with </h2>
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=python&sort= >
+
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=git&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=github&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=java&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=yaml&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=c&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-</a>
-
-<a href= https://github.com/luismojena?tab=repositories&q=&type=&language=cpp&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
-</a>
 
 <a href= https://github.com/luismojena?tab=repositories&q=&type=&language=docker&sort= >
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
