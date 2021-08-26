@@ -47,7 +47,7 @@ I am a passionate developer who likes to work on exciting cutting edge technolog
 
 <h2> Stuff I worked on last week 👨‍💻 </h2>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismojena&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismojena)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> My GitHub Stats 📊 </h2>
