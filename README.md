@@ -32,6 +32,7 @@ TODO
 <h2> Stuff I worked on last week 👨‍💻 </h2>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismojena&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c894ff2d-b821-4cc4-81dc-5ccfaa6ff2f8/ee49e1af-253b-4774-a4c0-2513b80b4b75.png" /></a>
 
 
 <h2> My GitHub Stats 📊 </h2>
